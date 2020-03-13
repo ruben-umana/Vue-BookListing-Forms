@@ -20,7 +20,7 @@ export default {
       title: "All Books",
       states: ["Want to Read", "Read", "Reading"],
       books: [
-        { title: "Self-Reliance", author: "Ralph Waldo Emerson" },
+        { title: "Self-Reliance", author: "Ralph Waldo Emersons" },
         { title: "American Gods", author: "Neil Gaiman" },
         { title: "Amusing Ourselves to Death", author: "Neil Postman" }
       ]
