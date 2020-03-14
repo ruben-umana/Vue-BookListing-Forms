@@ -30,8 +30,8 @@ export default {
       states: ["Want to Read", "Read", "Reading"],
       books: [
         { title: "Self-Reliance", author: "Ralph Waldo Emersons",finishedReading: true, ownership: "borrowed  " },
-        { title: "American Gods", author: "Neil Gaiman",finishedReading: false, ownership: "borrowed" },
-        { title: "Amusing Ourselves to Death", author: "Neil Postman",finishedReading: true, ownership: "bought" }
+        { title: "American Gods", author: "Neil Gaiman",finishedReading: false, ownership: "bought" },
+        { title: "Amusing Ourselves to Death", author: "Neil Postman",finishedReading: true, ownership: "borrowed" }
       ],
       filters: ["bought", "borrowed" ],
       holding: "bought"
